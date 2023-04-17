@@ -1,3 +1,3 @@
 # Diabetes-Prediction
 Third Project  Diabetes prediction using support vector machine 
-![Capture](https://user-images.githubusercontent.com/100555105/231661872-5b859314-faf3-48ec-bcfd-c0489da630da.PNG)
+![Diabetes prediction](https://user-images.githubusercontent.com/100555105/232386862-d3bbf5cc-c1c0-4c44-a62e-62851859eb9e.jpeg)
